@@ -1,1 +1,10 @@
 node_modules/
+
+# User-specific files - ignores all files tarting with the letter z.
+z*
+
+# User-specific files - Ignore all files ending in ".env"
+*.env
+
+# User-specific files - Ignore a top-level directory name artifacts
+artifacts\
